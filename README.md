@@ -1,5 +1,7 @@
 # Accelerator Initializer UI
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/2146087a-c3c9-4667-ae3e-6a3252141377.svg?orgId=320408544746)](https://app.soluble.cloud/repos/details/github.com/jsoehner/accelerator-initializer-ui?orgId=320408544746)  
+
 ## Description
 
 The Accelerator Initializer UI is a rich user interface for the generation of new projects from standardized templates (provided by the accelerator-initializer API). It is intended to be the starting point for developers when creating a new project and onboarding with the Accelerator Pipeline.
